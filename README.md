@@ -37,7 +37,7 @@ Variables should be fairly self-explanatory, but are as follows:
 
 **A few notes about Senate control**
 
-In numerous Congressional sessions Democrats gained an effective majority in the U.S. Senate due to independents caucausing with the Democratic Party. These sessions have been noted as being under Democratic control as a result:  
+In several Congressional sessions Democrats gained an effective majority in the U.S. Senate due to independents caucausing with the Democratic Party. These sessions have been noted as being under Democratic control as a result:  
 * 107th Senate (only under Republican control from January-May 2001)  
 * 110th Senate 
 
@@ -45,4 +45,4 @@ The 111th Senate is a tough one to code for an entire session, as it varied in [
 
 **Presidents Leaving Early**
 
-In cases where presidents left office due to death or impeachment, the president who occupied the Oval Office for the majority of that period was coded for. With the exception of Republican Abraham Lincoln's assassination (and Democratic/National Union Party Andrew Johnson's ascendance), no shifts in party control occurred due to early departure from that office.
+In cases where presidents left office due to death, resignation, or impeachment, the president who occupied the Oval Office for the majority of that period was coded for. With the exception of Republican Abraham Lincoln's assassination (and Democratic/National Union Party Andrew Johnson's ascendance), no shifts in party control occurred due to early departure from that office.
