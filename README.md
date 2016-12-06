@@ -5,7 +5,8 @@ Dataset that tracks control of the United States House of Representatives, Senat
 Variables should be fairly self-explanatory, but are as follows:  
 *congress:* Numeric identifier of Congressional session  
 *year.start:* Start year of Congressional session  
-*year.end:* End year of Congressional session  
+*year.end:* End year of Congressional session 
+ 
 *senate.total:* Total number of Senate seats in that session  
 *senate.dems:* Total number of Democrats in Senate  
 *senate.dem.perc:* Percentage of Senators from Democratic Party  
@@ -15,6 +16,7 @@ Variables should be fairly self-explanatory, but are as follows:
 *senate.vacancies:* Number of vacancies in Senate (in total)  
 *senate.dem.control:* Democratic Party controlled Senate  
 *senate.rep.control:* Republican Party controlled Senate  
+
 *house.total:* Total number of House seats in that session  
 *house.dems:* Total number of Democrats in House  
 *house.dem.perc:* Percentage of House Reps from Democratic Party  
@@ -24,11 +26,16 @@ Variables should be fairly self-explanatory, but are as follows:
 *house.vacancies:* Number of vacancies in House (in total)  
 *house.dem.control:* Democratic Party controlled House  
 *house.rep.control:* Republican Party controlled House  
+
+*congress.dem.control:* Democratic Party controlled both chambers  
+*congress.rep.control:* Republican Party controlled both chambers  
+*congress.div.control:* Chambers divided between Democrats/Republicans
+
 *pres.dem:* Dummy variable indicating Democratic president  
 *pres.rep:* Dummy variable indicating Republican president  
 *pres:* Name of president 
 
-**A few notes about House/Senate breakdowns**
+**A few notes about Senate control**
 
 In numerous Congressional sessions Democrats gained an effective majority in the U.S. Senate due to independents caucausing with the Democratic Party. These sessions have been noted as being under Democratic control as a result:  
 * 107th Senate (only under Republican control from January-May 2001)  
