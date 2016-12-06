@@ -3,30 +3,30 @@
 Dataset that tracks control of the United States House of Representatives, Senate, and Executive Branch. 
 
 Variables should be fairly self-explanatory, but are as follows:  
-congress: Numeric identifier of Congressional session  
-year.start: Start year of Congressional session  
-year.end: End year of Congressional session  
-senate.total: Total number of Senate seats in that session  
-senate.dems: Total number of Democrats in Senate  
-senate.dem.perc: Percentage of Senators from Democratic Party  
-senate.reps: Total number of Republicans in Senate  
-senate.rep.perc: Percentage of Senators from Republican Party  
-senate.others: Number of independents in Senate  
-senate.vacancies: Number of vacancies in Senate (in total)  
-senate.dem.control: Democratic Party controlled Senate  
-senate.rep.control: Republican Party controlled Senate  
-house.total: Total number of House seats in that session  
-house.dems: Total number of Democrats in House  
-house.dem.perc: Percentage of House Reps from Democratic Party  
-house.reps: Total number of Republicans in House  
-house.rep.perc: Percentage of House Reps from Republican Party  
-house.others: Number of independents in House  
-house.vacancies: Number of vacancies in House (in total)  
-house.dem.control: Democratic Party controlled House  
-house.rep.control: Republican Party controlled House  
-pres.dem: Dummy variable indicating Democratic president  
-pres.rep: Dummy variable indicating Republican president  
-pres: Name of president 
+*congress:* Numeric identifier of Congressional session  
+*year.start:* Start year of Congressional session  
+*year.end:* End year of Congressional session  
+*senate.total:* Total number of Senate seats in that session  
+*senate.dems:* Total number of Democrats in Senate  
+*senate.dem.perc:* Percentage of Senators from Democratic Party  
+*senate.reps:* Total number of Republicans in Senate  
+*senate.rep.perc:* Percentage of Senators from Republican Party  
+*senate.others:* Number of independents in Senate  
+*senate.vacancies:* Number of vacancies in Senate (in total)  
+*senate.dem.control:* Democratic Party controlled Senate  
+*senate.rep.control:* Republican Party controlled Senate  
+*house.total:* Total number of House seats in that session  
+*house.dems:* Total number of Democrats in House  
+*house.dem.perc:* Percentage of House Reps from Democratic Party  
+*house.reps:* Total number of Republicans in House  
+*house.rep.perc:* Percentage of House Reps from Republican Party  
+*house.others:* Number of independents in House  
+*house.vacancies:* Number of vacancies in House (in total)  
+*house.dem.control:* Democratic Party controlled House  
+*house.rep.control:* Republican Party controlled House  
+*pres.dem:* Dummy variable indicating Democratic president  
+*pres.rep:* Dummy variable indicating Republican president  
+*pres:* Name of president 
 
 **A few notes about House/Senate breakdowns**
 
